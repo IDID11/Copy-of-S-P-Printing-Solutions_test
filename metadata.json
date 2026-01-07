@@ -1,0 +1,8 @@
+{
+  "name": "Copy of S&P Printing Solutions",
+  "description": "Premium printing service provider S&P - Turning your ideas into vivid reality with precision and quality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
